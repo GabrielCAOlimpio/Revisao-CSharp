@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="console1/console1.csproj" />
+  <Project Path="console2/console2.csproj" />
+</Solution>
