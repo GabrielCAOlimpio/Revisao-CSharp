@@ -1,4 +1,6 @@
-﻿class Program
+﻿//REVIEW HOW TO PASS ARGUMENTS IN C# CONSOLE APPLICATION
+//RELEMEBRANDO COMO PASSAR ARGUMENTOS EM APLICAÇÃO CONSOLE C#
+class Program
 {
     static void Main(string[] args)
     {

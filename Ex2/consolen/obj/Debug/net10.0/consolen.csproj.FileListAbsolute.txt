@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex2\consolen\ob
 C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex2\consolen\obj\Debug\net10.0\consolen.pdb
 C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex2\consolen\obj\Debug\net10.0\consolen.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex2\consolen\obj\Debug\net10.0\ref\consolen.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex2\consolen\obj\Debug\net10.0\consolen.sourcelink.json

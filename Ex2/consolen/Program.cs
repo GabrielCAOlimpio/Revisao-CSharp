@@ -1,8 +1,21 @@
-﻿float f1 = 1.5f; //Utilizamos sufixo "F"
-double d1 = 10.99;
-decimal dec1 = 100.99m; //Utilizamos sufixo "M"
+﻿//RELEMBRANDO TIPOS DE DADOS DE TEXTO EM C#
+//REVIEWING TEXT DATA TYPES IN C#
 
-Console.WriteLine("\n============================ Meus Numeros Reais ==========================");
-Console.WriteLine($"Esse é meu float: {f1:F2}");
-Console.WriteLine($"Esse é meu double: {d1:f1}");
-Console.WriteLine($"Esse é meu decimal: {dec1:f5}\n");
+string Nome = "Gabriel";
+char letra = 'G';
+
+
+Console.WriteLine("This is my text data types review:");
+Console.WriteLine($"My first string: {Nome}");
+Console.WriteLine($"My first char: {letra}");
+
+Console.Write($"A String to char ");
+foreach (char c in Nome)
+{
+    Console.Write(c + " ");
+}
+Console.WriteLine("\nConvertendo String para Char Array");
+foreach (char item in Nome.ToCharArray())
+{
+    Console.Write(item + " ");
+}

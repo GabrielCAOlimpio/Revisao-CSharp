@@ -1,4 +1,7 @@
-﻿byte b1 = 1;
+﻿//RELEMBRANDO TIPOS DE DADOS INTEIROS EM C#
+//REVIEWING INTEGER DATA TYPES IN C#
+
+byte b1 = 1;
 short s1 = 10;
 int n1 = 100;
 long l1 = 1000;

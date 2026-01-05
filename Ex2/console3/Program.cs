@@ -1,6 +1,11 @@
-﻿decimal salario = 1620;
-decimal fgts = salario * 0.08m;
+﻿//RELEMBRANDO TIPOS DE DADOS REAIS EM C#
+//REVIEWING REAL DATA TYPES IN C#
 
-Console.WriteLine($"Salario Bruto : {salario:C2}");
-Console.WriteLine($"FGTS (8%) : {fgts:C2}");
-Console.WriteLine($"Salario Liquido: {salario - fgts:C2}");
+float f1 = 1.5f; //Utilizamos sufixo "F"
+double d1 = 10.99;
+decimal dec1 = 100.99m; //Utilizamos sufixo "M"
+
+Console.WriteLine("\n============================ Meus Numeros Reais ==========================");
+Console.WriteLine($"Esse é meu float: {f1:F2}");
+Console.WriteLine($"Esse é meu double: {d1:f1}");
+Console.WriteLine($"Esse é meu decimal: {dec1:f5}\n");
