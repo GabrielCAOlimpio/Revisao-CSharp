@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\bin\Debug\net10.0\console3.exe
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\bin\Debug\net10.0\console3.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\bin\Debug\net10.0\console3.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\bin\Debug\net10.0\console3.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\bin\Debug\net10.0\console3.pdb
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\refint\console3.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.pdb
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\console3.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex7\console3\obj\Debug\net10.0\ref\console3.dll
