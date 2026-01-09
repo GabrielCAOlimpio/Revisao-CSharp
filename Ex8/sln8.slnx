@@ -6,4 +6,5 @@
   <Project Path="console5/console5.csproj" />
   <Project Path="console6/console6.csproj" />
   <Project Path="console7/console7.csproj" />
+  <Project Path="console8/console8.csproj" />
 </Solution>
