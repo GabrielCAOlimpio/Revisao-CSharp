@@ -7,7 +7,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        List<int> numbers = new List<int>();
+        List<int> numbers = new(); //A modern way to instantiate a List<int>
+        //I can use : List<int> numbers = []; too or List<int> numbers = new List<int>();
         numbers.Add(1); //Adding an element
         numbers.AddRange(new List<int> { 2, 3, 4 }); //Adding multiple elements
         Console.WriteLine($"My List: [{string.Join(",",numbers)}]");
