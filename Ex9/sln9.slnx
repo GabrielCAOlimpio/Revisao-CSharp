@@ -2,4 +2,6 @@
   <Project Path="console1/console1.csproj" />
   <Project Path="console2/console2.csproj" />
   <Project Path="console3/console3.csproj" />
+  <Project Path="console4/console4.csproj" />
+  <Project Path="console5/console5.csproj" />
 </Solution>
