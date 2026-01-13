@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\bin\Debug\net10.0\console8.exe
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\bin\Debug\net10.0\console8.deps.json
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\bin\Debug\net10.0\console8.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\bin\Debug\net10.0\console8.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\bin\Debug\net10.0\console8.pdb
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\refint\console8.dll
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.pdb
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\console8.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Programação\Exercicios\BackEnd\Ex9\console8\obj\Debug\net10.0\ref\console8.dll
