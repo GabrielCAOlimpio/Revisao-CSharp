@@ -1,0 +1,9 @@
+### Exercício 3 (nível entrevista)
+
+Você recebe `IEnumerable<object>` de uma API externa.
+
+Crie um LINQ que:
+
+- pegue apenas objetos do tipo `Usuario`
+- idade >= 18
+- retorne apenas `Nome`

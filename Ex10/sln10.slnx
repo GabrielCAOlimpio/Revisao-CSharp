@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="console1/console1.csproj" />
+  <Project Path="console2/console2.csproj" />
+  <Project Path="console3/console3.csproj" />
+  <Project Path="console4/console4.csproj" />
+  <Project Path="console5/console5.csproj" />
+  <Project Path="console6/console6.csproj" />
+  <Project Path="ex1/ex1.csproj" />
+  <Project Path="ex2/ex2.csproj" />
+  <Project Path="ex3/ex3.csproj" />
+</Solution>

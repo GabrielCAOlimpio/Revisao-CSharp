@@ -1,0 +1,12 @@
+Dada uma lista de pedidos:
+
+```csharp
+Pedido { Valor, Status }
+
+```
+
+Use `Select` + `switch` para retornar:
+
+- "Pedido barato" (< 100)
+- "Pedido médio" (100–500)
+- "Pedido caro" (> 500)

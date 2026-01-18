@@ -55,8 +55,8 @@ public class Program
                         CategoriaNome = c.Nome,
                         Preco = p.Preco
                     } into pc/*produto-categoria*/
-                    group pc by pc.CategoriaNome
-                      ;
+                    group pc by pc.CategoriaNome;
+                     
         
         //Another way to do the same using method syntax
         /*var pedidos = produtos.Join(
