@@ -1,0 +1,87 @@
+# Visual Studio
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# EF Core Migrations
+Migrations/**/ModelSnapshot.cs
+
+# Publish output
+*.Publish.xml
+
+# Local app settings
+appsettings.Development.json
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# Rider project files
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Generated files
+*.g.cs
+*.g.i.cs
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.db
+*.DS_Store
+
+# JetBrains Rider caches
+.idea/
+*.sln.iml
+
+# Azure Web App publish settings
+*.PublishSettings
+
+# NPM
+node_modules/
+
+# Visual Studio Code extensions
+.history/
+
+# TeamCity
+.teamcity/
+
+# User-specific files
+*.rsp
+*.userprefs
